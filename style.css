@@ -80,10 +80,11 @@ img {
      height: 72px !important;
      width: 150px !important;
      /* margin-top: -70px; */
-     
    }
   
-
+.cryptosrus img{
+ padding-top: 22px;
+}
 .andSign{
   padding-top: 12px;
   color: white;
@@ -502,6 +503,8 @@ input:required {
   width: 40px;
   height: 40px;
   bottom: 40px;
+  background-image: url("img/images/arrowUp.png");
+  background-size: contain;
   background-color: #fe3289;
   color: #ffffff;
   text-align: center;
