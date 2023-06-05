@@ -84,6 +84,16 @@ img {
    }
   
 
+.andSign{
+    color: white;
+    font-size: 75px !important;
+    padding-right: 15px;
+    padding-left: 20px;
+    font-weight: normal;
+}
+
+
+
 ul {
   margin: 0;
   padding: 0; }
@@ -996,10 +1006,24 @@ input:required {
       .single-welcome-slide .welcome-text-two .event-meta a {
         color: #ffffff;
         margin-right: 40px; }
+
+        @media only screen and (max-width: 767px) {
+          .andSign{
+            color: white;
+            font-size: 25px !important;
+            padding-right: 15px;
+          }
+        }
         @media only screen and (max-width: 767px) {
           .single-welcome-slide .welcome-text-two .event-meta a {
             margin-right: 15px;
             font-size: 12px; } }
+
+          .descText{
+            font-size: 20px;
+          }
+
+          
         .single-welcome-slide .welcome-text-two .event-meta a i {
           margin-right: 5px; }
 
@@ -2579,6 +2603,7 @@ input:required {
     flex: 0 0 25%;
     max-width: 25%;
     width: 25%;
+    padding: 0 0.5%;
     height: 240px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2591,6 +2616,27 @@ input:required {
     justify-content: center;
     margin-left: -1px;
     margin-top: -1px; }
+
+    .our-sponsor-area .single-sponsor2 {
+      /* border: 1px solid #444675; */
+      -webkit-box-flex: 0;
+      -ms-flex: 0 0 25%;
+      flex: 0 0 50%;
+      max-width: 50%;
+      width: 25%;
+      padding: 0 0.5%;
+      height: 240px;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      margin-left: -1px;
+      margin-top: -1px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .our-sponsor-area .single-sponsor {
         height: 200px; } }
