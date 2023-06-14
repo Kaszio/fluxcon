@@ -2764,7 +2764,12 @@ input:required {
       -o-transition-duration: 300ms;
       transition-duration: 300ms;
       max-height: 110px;
-      opacity: 0.5; }
+      opacity: 0.9; }
+
+      /* @media only screen and (min-width: 992px) and (max-width: 1199px) {
+        iframe {
+          height: 100; } } */
+
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .our-sponsor-area .single-sponsor a img {
           max-height: 90px; } }
