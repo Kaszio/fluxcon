@@ -2826,10 +2826,10 @@ input:required {
 .our-sponsor-area .single-sponsor[name="media"] {
   /* border: 1px solid #444675; */
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 25%;
-  flex: 0 0 25%;
-  max-width: 25%;
-  width: 25%;
+  -ms-flex: 0 0 20%;
+  flex: 0 0 20%;
+  max-width: 20%;
+  width: 20%;
   padding: 0 1%;
   height: 200px;
   margin-left: -1px;
