@@ -1614,6 +1614,15 @@ input:required {
     text-align: center;
   }
 
+  .single-speaker-area .speaker-info[name="center"] h5 span {
+    font-size: 13px;
+   }
+
+  .single-speaker-area .speaker-info[name="center"] h5[name="title"]  {
+    margin-bottom: 0px;
+    line-height: 15px;
+  }
+
 
   @media only screen and (max-width: 767px) {
   .single-speaker-area .speaker-info[name="center"] h5 {
