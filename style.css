@@ -84,12 +84,12 @@ img {
   
 
    .card {
-    height: 29.5%;
+    height: 30.3%;
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
     font-size: 40px;
     margin: 15px;
-    flex: 29.5% 0 0;
+    flex: 30.3% 0 0;
     overflow: hidden;
     border-radius: 15px;
   }
@@ -103,11 +103,15 @@ img {
     transition: ease 0.5s;
   }
   .display-area {
-    width: 800px;
+    width: 1000px;
   /*   border: 1px solid black; */
     overflow-x: hidden;
 
     margin: auto;
+  }
+
+  .b24-form-click-btn{
+    width: 250px;
   }
   
   .dots-wrapper {
@@ -1579,9 +1583,9 @@ input:required {
         margin-bottom: 0; }
   .single-speaker-area .speaker-info {
     position: absolute;
-    bottom: 25px;
+    bottom: 18px;
     left: 0px;
-    height: 20%;
+    height: 22%;
     padding-left: 25px;
     width: 100%;
     z-index: 22; 
@@ -1623,6 +1627,10 @@ input:required {
     line-height: 15px;
   }
 
+  .single-speaker-area .speaker-info[name="center"] h5[name="title2"]  {
+    margin-bottom: 8px;
+    line-height: 15px;
+  }
 
   @media only screen and (max-width: 767px) {
   .single-speaker-area .speaker-info[name="center"] h5 {
