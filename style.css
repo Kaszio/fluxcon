@@ -51,6 +51,53 @@ li {
     justify-content: center;
   }
 
+.banner{
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #fff;
+  z-index: 999;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  display: grid;
+  grid-template-areas: 
+  'text text btn'
+  ;
+  text-align: center;
+  align-items: center;
+}
+
+.banner h1{
+  font-size: 2vmax;
+  grid-area: text;
+  color:#2b61d1;
+}
+
+.banner a{
+  text-align: left;
+  grid-area: btn;
+  color:#2b61d1;
+  font-size: 2.5vmax;
+}
+
+
+.gone{
+  display: none !important;
+}
+
+.closeBtn:hover{
+  color:#1243a7;
+}
+
+
+.banner h1 a{
+  font-size: 2.2vmax;
+  color:#1547ac;
+}
+
+
 p {
   line-height: 1.8;
   color: #5d5e8d;
@@ -653,6 +700,8 @@ input:required {
       .hotels{
         background-color: #16002e;
       }
+
+
 @-webkit-keyframes buttonIcon {
   0% {
     opacity: 1; }
@@ -798,6 +847,12 @@ input:required {
     transition-duration: 500ms;
     height: 105px;
     padding: 0; }
+
+    @media only screen and (max-width:1020px) {
+      .display-area{
+        width: 100%;
+      }
+    }
 
     @media only screen and (max-width: 767px) {
       .card{

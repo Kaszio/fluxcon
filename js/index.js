@@ -61,7 +61,6 @@ dots.forEach((dot, idx) => {
   setInterval(moveTick,3000);
   function moveTick(){
     let clickedDotNum = activeDotNum+0.0415;
-    console.log(clickedDotNum);
 //     if the dot clicked is already active, then do nothing
     if(clickedDotNum == activeDotNum) {
       // console.log('active');
@@ -87,6 +86,11 @@ dots.forEach((dot, idx) => {
     
     
 });
+
+function hide(){
+    const banner = document.getElementById("banner");
+    banner.classList.add("gone");
+}
 
 (function ($) {
     $.fn.classyNav = function (options) {
@@ -219,7 +223,6 @@ async function getapi(url) {
     let currentPageData = (allPageData).slice(0,3)
 
     show(currentPageData);
-    console.log(currentPageData)
 }
 // Calling that async function
 getapi(api_url);
