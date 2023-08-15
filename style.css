@@ -2902,10 +2902,10 @@ input:required {
   /* border: 1px solid #444675; */
   flex-wrap: wrap;
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 33%;
-  flex: 0 0 33%;
-  max-width: 33%;
-  width: 33%;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
+  width: 25%;
   padding: 0 1%;
   height: 200px;
   margin-left: -1px;
@@ -2934,6 +2934,18 @@ input:required {
   height: 200px;
   margin-left: -1px;
   margin-top: -60px; }
+
+  .our-sponsor-area .single-sponsor[name="MC"] {
+    /* border: 1px solid #444675; */
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+    padding: 0 0.5%;
+    height: 200px;
+    margin-left: -1px;
+    margin-top: -50px; }
 
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .our-sponsor-area .single-sponsor {
