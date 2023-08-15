@@ -60,7 +60,7 @@ dots.forEach((dot, idx) => {
 
   setInterval(moveTick,3000);
   function moveTick(){
-    let clickedDotNum = activeDotNum+0.0415;
+    let clickedDotNum = activeDotNum+0.0368;
 //     if the dot clicked is already active, then do nothing
     if(clickedDotNum == activeDotNum) {
       // console.log('active');
