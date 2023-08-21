@@ -129,6 +129,13 @@ img {
      /* margin-top: -70px; */
    }
   
+   .banner2{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width: 55%;
+    height: auto;
+   }
 
    .card {
     height: 30.3%;
@@ -861,6 +868,11 @@ input:required {
         flex-wrap: wrap !important;
         flex: 40% 0 0;
         
+      }
+
+      .banner2{
+        top: -15px;
+        left: -15px;
       }
       .dot.mobile{
         width: 15px;
