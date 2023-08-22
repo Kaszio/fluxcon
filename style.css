@@ -137,6 +137,14 @@ img {
     height: auto;
    }
 
+   .banner3{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width: 55% !important;
+    height: auto;
+   }
+
    .card {
     height: 30.3%;
     background-color: rgba(0, 0, 0, 0.4);
