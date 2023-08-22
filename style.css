@@ -1656,7 +1656,7 @@ input:required {
     padding-left: 25px;
     width: 100%;
     z-index: 22; 
-    background-color: #16002e;
+    background-color: hsla(269, 100%, 9%, 0.70);
   }
 
   .Hotel{
