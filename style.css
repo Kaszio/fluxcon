@@ -97,6 +97,33 @@ li {
   color:#1547ac;
 }
 
+.venueDisc{
+  color: white;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 0;
+}
+
+.parkingmap{
+  border: #2a173f 10px solid;
+  border-radius: 25px;
+}
+
+.map{
+  width: 95%;
+  height: auto;
+  border: #2a173f 10px solid;
+  border-radius: 25px;
+}
+
+.longmap{
+  width: auto;
+  height: 60%;
+  border: #2a173f 10px solid;
+  border-radius: 25px;
+  max-height: 900px;
+}
 
 p {
   line-height: 1.8;
