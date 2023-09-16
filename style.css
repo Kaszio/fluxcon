@@ -3225,3 +3225,28 @@ input:required {
         }
 
 
+.agenda{
+  padding-top: 200px;
+  height: 2300px;
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.agenda table{
+  text-align: center;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.agenda td, .agenda th{
+  padding: 25px;
+  border: #fe3289 5px solid;
+  color: white;
+  font-size: 15px;
+}
+
+.agenda th{
+  font-weight: bold;
+  font-size: 25px;
+}
