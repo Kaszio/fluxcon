@@ -20,6 +20,7 @@
 }());
 
 const wrapper = document.querySelector('.cards-wrapper');
+const wrapper2 = document.querySelector('.cards-wrapper2');
 // console.log(wrapper.clientWidth);
 
 // grab the dots
@@ -45,9 +46,12 @@ dots.forEach((dot, idx) => {
       // console.log('not active');
       // shift the wrapper
       let displayArea = wrapper.parentElement.clientWidth;
+      let displayArea2 = wrapper2.parentElement.clientWidth;
       // let pixels = -wrapper.clientWidth * clickedDotNum;
-      let pixels = -displayArea * clickedDotNum
+      let pixels = -displayArea * clickedDotNum;
+      let pixels2 = -displayArea2 * clickedDotNum;
       wrapper.style.transform = 'translateX('+ pixels + 'px)';
+      wrapper2.style.transform = 'translateX('+ pixels2 + 'px)';
 //       remove the active class from the active dot
       dots[activeDotNum].classList.remove('active');
 //       add the active class to the clicked dot
