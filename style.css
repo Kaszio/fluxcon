@@ -3259,3 +3259,8 @@ input:required {
 .lunch{
   background-color: #2c0a4b;
 }
+
+.noborder td{
+  border: none;
+}
+
