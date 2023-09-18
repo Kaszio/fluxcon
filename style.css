@@ -899,6 +899,18 @@ input:required {
       .display-area{
         width: 100%;
       }
+      .cards-wrapper .single-speaker-area .speaker-info p{
+          font-size: 12px;
+      }
+      .cards-wrapper .single-speaker-area .speaker-info h5{
+        font-size: 15px;
+      }
+      .cards-wrapper2 .single-speaker-area .speaker-info p{
+        font-size: 12px;
+    }
+    .cards-wrapper2 .single-speaker-area .speaker-info h5{
+      font-size: 15px;
+    }
     }
 
     @media only screen and (max-width: 767px) {
@@ -909,6 +921,8 @@ input:required {
         flex: 40% 0 0;
         
       }
+
+
 
       .banner2{
         top: -15px;
