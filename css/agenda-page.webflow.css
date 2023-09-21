@@ -559,11 +559,13 @@
 }
 
 .section-agenda-page {
-  max-width: 1320px;
+  width: 100%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 80px 20px 30px;
+  padding-left: 10%;
+  padding-right: 10%;
   display: flex;
 }
 
