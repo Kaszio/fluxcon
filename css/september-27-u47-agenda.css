@@ -1,0 +1,453 @@
+/* screen - september-27-u47-agenda */
+
+.september-27-u47-agenda {
+  align-items: center;
+  background-color: #16002e;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  justify-content: center;
+  padding: 112px 64px;
+  position: relative;
+}
+
+.september-27-u47-agenda .content-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  width: 100%;
+}
+
+.september-27-u47-agenda .a-primary-button {
+  align-items: center;
+  background-color: var(--hibiscus);
+  border: 1px solid;
+  border-color: var(--neutral-colors800);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 9px 32px;
+  position: relative;
+  width: 200px;
+}
+
+.september-27-u47-agenda .a-secondary-button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 9px 32px;
+  position: relative;
+  width: 200px;
+}
+
+.september-27-u47-agenda .september-27-u47-agenda-item {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.september-27-u47-agenda .name-1 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .content-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 16px;
+  height: 40px;
+  padding: 5px 0px 0px;
+}
+
+.september-27-u47-agenda .frame-1171275945-2 {
+  align-items: center;
+  background-color: var(--hibiscus);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 2px;
+}
+
+.september-27-u47-agenda .content-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 160px;
+  width: 740px;
+}
+
+.september-27-u47-agenda .content-3 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 16px;
+  justify-content: center;
+}
+
+.september-27-u47-agenda .text-3 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .content-4 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+}
+
+.september-27-u47-agenda .divider {
+  align-self: stretch;
+  margin-right: -1.00px;
+  position: relative;
+  width: 2px;
+}
+
+.september-27-u47-agenda .content-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  width: 740px;
+}
+
+.september-27-u47-agenda .job-post-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  padding: 24px 24px 28px;
+  position: relative;
+  width: 100%;
+}
+
+.september-27-u47-agenda .content-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  width: 330px;
+}
+
+.september-27-u47-agenda .text-4 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .frame-1171275945-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.september-27-u47-agenda .content-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+}
+
+.september-27-u47-agenda .placeholder-image {
+  height: 95px;
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+  width: 95px;
+}
+
+.september-27-u47-agenda .content-8 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.september-27-u47-agenda .text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.september-27-u47-agenda .text-1 {
+  align-self: stretch;
+  line-height: 21px;
+}
+
+.september-27-u47-agenda .text-5 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.september-27-u47-agenda .divider-1 {
+  height: 100px;
+  position: relative;
+  width: 2px;
+}
+
+.september-27-u47-agenda .content-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  width: 330px;
+}
+
+.september-27-u47-agenda .text-6 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-7 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-8 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .content-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  margin-bottom: -6.00px;
+  margin-top: -6.00px;
+  width: 330px;
+}
+
+.september-27-u47-agenda .text-2 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-9 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-10 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-11 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .frame-1171275945-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  height: 374px;
+  position: relative;
+}
+
+.september-27-u47-agenda .text-12 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .content-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  width: 312px;
+}
+
+.september-27-u47-agenda .frame-1171275945-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.september-27-u47-agenda .content-13 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  width: 312px;
+}
+
+.september-27-u47-agenda .text-13 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-and-button-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  margin-right: -34.00px;
+  position: relative;
+}
+
+.september-27-u47-agenda .text-14 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .frame-1171275945-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 76px;
+  position: relative;
+  width: 100%;
+}
+
+.september-27-u47-agenda .content-14 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  margin-right: -8.00px;
+  width: 312px;
+}
+
+.september-27-u47-agenda .text-15 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-16 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-17 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .text-18 {
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-27-u47-agenda .content-15 {
+  flex-direction: column;
+  position: relative;
+}
+
+.september-27-u47-agenda .frame-1-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.september-27-u47-agenda .new {
+  height: 95px;
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+  width: 95px;
+}
+
+.september-27-u47-agenda .placeholder-image-24 {
+  height: 95px;
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+  width: 95px;
+}
+
+.september-27-u47-agenda .text-19 {
+  letter-spacing: 0;
+  position: relative;
+}
+
+.september-27-u47-agenda .text-and-badge-19 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.september-27-u47-agenda .title-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}

@@ -1,0 +1,838 @@
+/* screen - september-28-u47-agenda */
+
+.september-28-u47-agenda {
+  align-items: center;
+  background-color: #16002e;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  padding: 112px 64px;
+  position: relative;
+}
+
+.september-28-u47-agenda .content-15 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.september-28-u47-agenda .a-primary-button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--neutral-colors800);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 9px 32px;
+  position: relative;
+  width: 200px;
+}
+
+.september-28-u47-agenda .a-secondary-button {
+  align-items: center;
+  background-color: var(--hibiscus);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 9px 32px;
+  position: relative;
+  width: 200px;
+}
+
+.september-28-u47-agenda .frame-1171275949 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 1px;
+  justify-content: center;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 1312px;
+}
+
+.september-28-u47-agenda .name-1 {
+  letter-spacing: 0;
+  line-height: 8.4px;
+  margin-bottom: -8.00px;
+  margin-top: -10.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-28-u47-agenda .content-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 40px;
+  padding: 5px 0px 0px;
+  position: relative;
+}
+
+.september-28-u47-agenda .frame-1171275945-2 {
+  align-items: center;
+  background-color: var(--hibiscus);
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 2px;
+}
+
+.september-28-u47-agenda .content-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 160px;
+  position: relative;
+  width: 740px;
+}
+
+.september-28-u47-agenda .content-3 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.september-28-u47-agenda .text {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.september-28-u47-agenda .divider {
+  height: 100px;
+  position: relative;
+  width: 2px;
+}
+
+.september-28-u47-agenda .content-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 330px;
+}
+
+.september-28-u47-agenda .text-and-badge-1 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .content-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 312px;
+}
+
+.september-28-u47-agenda .placeholder-image {
+  height: 95px;
+  margin-bottom: -2.00px;
+  position: relative;
+  width: 95px;
+}
+
+.september-28-u47-agenda .content-6 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+}
+
+.september-28-u47-agenda .content-7 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.september-28-u47-agenda .divider-1 {
+  margin-right: -1.00px;
+  width: 2px;
+}
+
+.september-28-u47-agenda .content-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 740px;
+}
+
+.september-28-u47-agenda .job-post-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.september-28-u47-agenda .content-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 330px;
+}
+
+.september-28-u47-agenda .text-and-button-1 {
+  display: inline-flex;
+  margin-right: -37.00px;
+}
+
+.september-28-u47-agenda .text-and-badge-2 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .frame-117127594-1 {
+  justify-content: space-between;
+}
+
+.september-28-u47-agenda .placeholder-image-2 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-3 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .frame-1171275945-3 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 50px;
+  width: 100%;
+}
+
+.september-28-u47-agenda .text-and-badge-3 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .frame-1171275945-4 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  margin-right: -1.00px;
+  width: 313px;
+}
+
+.september-28-u47-agenda .frame-117127594-2 {
+  gap: 50px;
+  justify-content: space-around;
+}
+
+.september-28-u47-agenda .content-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-4 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-badge-4 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-5 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-badge-5 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .text-and-badge-6 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-6 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .frame-1171275945-5 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  width: 313px;
+}
+
+.september-28-u47-agenda .placeholder-image-7 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-8 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-9 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .frame-1171275945-6 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.september-28-u47-agenda .placeholder-image-10 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .content-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: 312px;
+}
+
+.september-28-u47-agenda .crypto_-grady_crop-1 {
+  height: 95px;
+  object-fit: cover;
+  position: relative;
+  width: 95px;
+}
+
+.september-28-u47-agenda .card-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  height: 93px;
+  margin-right: -103.00px;
+  position: relative;
+  width: 304px;
+}
+
+.september-28-u47-agenda .divider-2 {
+  height: 374px;
+  width: 100%;
+}
+
+.september-28-u47-agenda .content-16 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  position: relative;
+  width: 740px;
+}
+
+.september-28-u47-agenda .job-post-2 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.september-28-u47-agenda .text-and-badge-7 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .content-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.september-28-u47-agenda .placeholder-image-11 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-12 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .frame-1171275945-1 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 50px;
+}
+
+.september-28-u47-agenda .content-13 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 312px;
+}
+
+.september-28-u47-agenda .jake-1 {
+  height: 95px;
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+  width: 95px;
+}
+
+.september-28-u47-agenda .text-and-button-2 {
+  display: inline-flex;
+  margin-right: -18.00px;
+}
+
+.september-28-u47-agenda .text-and-badge-8 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-13 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-button-3 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.september-28-u47-agenda .text-and-category-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4px;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-badge-9 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.september-28-u47-agenda .text-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-14 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-15 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .content-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: -6.00px;
+  margin-top: -6.00px;
+  position: relative;
+  width: 330px;
+}
+
+.september-28-u47-agenda .text-and-badge-10 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .text-3 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.september-28-u47-agenda .text-and-badge-11 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-16 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .group-1171275945 {
+  height: 98px;
+  margin-bottom: -5.00px;
+  position: relative;
+  width: 97px;
+}
+
+.september-28-u47-agenda .overlap-group {
+  height: 98px;
+  position: relative;
+  width: 95px;
+}
+
+.september-28-u47-agenda .text-4 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.september-28-u47-agenda .placeholder-image-1 {
+  background-color: var(--white-3);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.september-28-u47-agenda .text-and-badge-12 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-17 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-18 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-19 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-20 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-21 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-22 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .jake-1-1 {
+  height: 95px;
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+  width: 95px;
+}
+
+.september-28-u47-agenda .frame-1171275950 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.september-28-u47-agenda .text-and-button-4 {
+  display: inline-flex;
+  margin-right: -282.00px;
+}
+
+.september-28-u47-agenda .text-and-badge-13 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-23 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-24 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-25 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-26 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-badge-14 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .text-and-badge-15 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-27 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-badge-16 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-28 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-29 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-30 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-31 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-badge-17 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-32 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-33 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-34 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-35 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-button-5 {
+  display: inline-flex;
+  margin-right: -71.00px;
+}
+
+.september-28-u47-agenda .text-and-badge-18 {
+  display: inline-flex;
+}
+
+.september-28-u47-agenda .placeholder-image-36 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-37 {
+  margin-bottom: -2.00px;
+  object-fit: cover;
+  position: relative;
+}
+
+.september-28-u47-agenda .group-1171275945-1 {
+  height: 98px;
+  margin-bottom: -5.00px;
+  position: relative;
+  width: 97.5px;
+}
+
+.september-28-u47-agenda .overlap-group-1 {
+  height: 98px;
+  position: relative;
+  width: 96px;
+}
+
+.september-28-u47-agenda .placeholder-image-38 {
+  left: 0;
+  position: absolute;
+  top: 2px;
+}
+
+.september-28-u47-agenda .divider-3 {
+  align-self: stretch;
+  position: relative;
+}
+
+.september-28-u47-agenda .frame-1-48 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.september-28-u47-agenda .frame-117127594-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.september-28-u47-agenda .frame-1171275945-7 {
+  display: flex;
+  position: relative;
+}
+
+.september-28-u47-agenda .job-post-3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  padding: 24px 24px 28px;
+  position: relative;
+}
+
+.september-28-u47-agenda .placeholder-image-39 {
+  height: 95px;
+  width: 95px;
+}
+
+.september-28-u47-agenda .text-and-badge-19 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.september-28-u47-agenda .text-and-button-6 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.september-28-u47-agenda .title-48 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
