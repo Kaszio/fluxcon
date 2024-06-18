@@ -2942,10 +2942,10 @@ input:required {
   /* border: 1px solid #444675; */
   flex-wrap: wrap;
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 33%;
-  flex: 0 0 33%;
-  max-width: 33%;
-  width: 33%;
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 200%;
+  width: 200%;
   padding: 0 0.5%;
   height: 200px;
   margin-left: -1px;
