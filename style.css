@@ -21,6 +21,12 @@ body {
   position: relative;
   z-index: auto; }
 
+
+.descText a{
+  color: white;
+}
+
+  
 h1,
 h2,
 h3,
