@@ -2848,9 +2848,8 @@ input:required {
         transform: scale(1.05); } }
   .single-ticket-pricing-table .ticket-plan {
     background-color: #fe3289;
-    padding: 10px 25px;
+    padding: 10px 20px;
     display: inline-block;
-    letter-spacing: 1px;
     text-transform: uppercase;
     color: #ffffff;
     border-radius: 0 0 5px 5px;
@@ -2861,14 +2860,19 @@ input:required {
     @media only screen and (max-width: 767px) {
       .single-ticket-pricing-table .ticket-icon img {
         max-height: 60px; } }
+        .ticket-small{
+          font-size: 10px;
+          margin-bottom: 15px;
+        }
   .single-ticket-pricing-table .ticket-price {
-    font-size: 60px;
+    margin-bottom: 0;
+    font-size: 50px;
     color: #2a173f;
     font-weight: 600;
     letter-spacing: 1px;
     line-height: 1;
     margin-top: 25px;
-    margin-bottom: 15px; }
+     }
     .single-ticket-pricing-table .ticket-price span {
       font-size: 30px;
       font-weight: 600;
