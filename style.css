@@ -3054,9 +3054,9 @@ input:required {
           max-height: 80px; } }
       @media only screen and (max-width: 767px) {
         .our-sponsor-area .single-sponsor[name = "gold"] {
-          flex: 0 0 33%;
-          max-width: 33%;
-          width: 33%;
+          flex: 0 0 100%;
+          max-width: 100%;
+          width: 100%;
           text-align: center;
           flex-wrap: wrap; } 
 
