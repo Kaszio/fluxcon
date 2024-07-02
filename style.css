@@ -2952,10 +2952,10 @@ input:required {
   /* border: 1px solid #444675; */
   flex-wrap: wrap;
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 100%;
-  flex: 0 0 100%;
-  max-width: 200%;
-  width: 200%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  width: 50%;
   padding: 0 0.5%;
   height: 200px;
   margin-left: -1px;
@@ -3054,9 +3054,9 @@ input:required {
           max-height: 80px; } }
       @media only screen and (max-width: 767px) {
         .our-sponsor-area .single-sponsor[name = "gold"] {
-          flex: 0 0 100%;
-          max-width: 100%;
-          width: 100%;
+          flex: 0 0 50%;
+          max-width: 50%;
+          width: 50%;
           text-align: center;
           flex-wrap: wrap; } 
 
